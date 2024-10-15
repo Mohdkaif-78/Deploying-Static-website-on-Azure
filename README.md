@@ -15,8 +15,6 @@ Discover a seamless shopping experience with our eStore, offering a diverse rang
 2. Storage account
 3. Azure Backup service
 4. Azure AI services
-5. chatbot
-6. Azure Role Based access Control(RBAC)
 # Problem Statement:
 In today’s fast-paced world, consumers often struggle with finding a reliable and convenient online platform that offers a wide variety of products with seamless navigation and secure transactions. Many e-commerce websites either lack user-friendly interfaces or provide subpar customer service, leading to frustration and mistrust. The need for an all-in-one, secure, and efficient shopping solution is growing. Our eStore addresses this challenge by offering a comprehensive platform where customers can easily browse, purchase, and receive support for all their shopping needs.
 # Project Description:
